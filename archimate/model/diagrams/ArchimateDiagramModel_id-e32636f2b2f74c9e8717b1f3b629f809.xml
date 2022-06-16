@@ -1,0 +1,20 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="vue 101"
+    id="id-e32636f2b2f74c9e8717b1f3b629f809">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-af88fb29d1c44797b3045e91d4c23090"
+      lineColor="#5c5c5c"
+      fillColor="#c9e7b7">
+    <bounds
+        x="666"
+        y="271"
+        width="181"
+        height="51"/>
+    <archimateElement
+        xsi:type="archimate:Node"
+        href="Node_id-c2b718f0415f494eb63de30a1520b655.xml#id-c2b718f0415f494eb63de30a1520b655"/>
+  </children>
+</archimate:ArchimateDiagramModel>
